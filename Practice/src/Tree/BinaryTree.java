@@ -13,14 +13,14 @@ public class BinaryTree {
     BinaryTree left;
     BinaryTree right;
 
-    BinaryTree(int data){
+   public  BinaryTree(int data){
 
         this.data = data;
         this.left = null;
         this.right =  null;
 
     }
-    BinaryTree(){}
+    public BinaryTree(){}
 
     public BinaryTree insert(BinaryTree root, int data){
 
