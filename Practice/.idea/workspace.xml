@@ -71,443 +71,6 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/javaPractice/PermutationOfString.java" line="44" class="javaPractice.PermutationOfString" package="javaPractice">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/javaPractice/SumInArray.java" line="47" class="javaPractice.SumInArray" package="javaPractice">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/javaPractice/MaxOnes.java" line="43" class="javaPractice.MaxOnes" package="javaPractice">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/javaPractice/IntegerPallindrome.java" line="23" class="javaPractice.IntegerPallindrome" package="javaPractice">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/MaxXor.java" line="29" class="HackerEarth.MaxXor" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/GemStones.java" line="51" class="HackerEarth.GemStones" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/FillingJars.java" line="22" class="HackerEarth.FillingJars" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/ChockLateFeast.java" line="13" class="HackerEarth.ChockLateFeast" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/AngryChildren.java" line="18" class="HackerEarth.AngryChildren" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/SubSet.java" line="20" class="HackerEarth.SubSet" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/HalloweenParty.java" line="21" class="HackerEarth.HalloweenParty" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/QuickParttion.java" line="51" class="HackerEarth.QuickParttion" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/LonelyInteger.java" line="45" class="HackerEarth.LonelyInteger" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/DifferenceIsK.java" line="44" class="HackerEarth.DifferenceIsK" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/MarkToys.java" line="27" class="HackerEarth.MarkToys" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/RunningTimeofQuickSort.java" line="78" class="HackerEarth.RunningTimeofQuickSort" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/GameOfRotation.java" line="39" class="HackerEarth.GameOfRotation" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/SherlockAndBeast.java" line="19" class="HackerEarth.SherlockAndBeast" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/Anagram.java" line="64" class="HackerEarth.Anagram" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/ManasaStones.java" line="10" class="HackerEarth.ManasaStones" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Tree/ZigZagTraversal.java" line="62" class="Tree.ZigZagTraversal" package="Tree">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Tree/ReverseAlterNaleLevels.java" line="93" class="Tree.ReverseAlterNaleLevels" package="Tree">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/HackerEarth/RunCustomerSimulation.java" line="11" class="HackerEarth.RunCustomerSimulation" package="HackerEarth">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Tree/SumTree.java" line="41" class="Tree.SumTree" package="Tree">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Tree/PrintingVerticalOrder.java" line="58" class="Tree.PrintingVerticalOrder" package="Tree">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Tree/PrintingNodesAtKdistance.java" line="100" class="Tree.PrintingNodesAtKdistance" package="Tree">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Tree/DistBetTwoNode.java" line="55" class="Tree.DistBetTwoNode" package="Tree">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Tree/DiffOddEvenLevel.java" line="53" class="Tree.DiffOddEvenLevel" package="Tree">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Tree/TreeFromPreandIN.java" line="31" class="Tree.TreeFromPreandIN" package="Tree">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -517,19 +80,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SumTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/SumTree.java">
+      <file leaf-file-name="Serialization.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaPractice/Serialization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="20" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="795">
+            <state line="38" column="16" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlphabetSoup.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/winni/AlphabetSoup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="1" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.7307692" vertical-offset="1110" max-vertical-offset="1500">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZeroOneMultiple.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/ZeroOneMultiple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="5" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintingVerticalOrder.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tree/PrintingVerticalOrder.java">
+      <file leaf-file-name="RemovingFriends.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/RemovingFriends.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="35" selection-start="1196" selection-end="1720" vertical-scroll-proportion="0.5926518" vertical-offset="424" max-vertical-offset="1050">
+            <state line="28" column="18" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1185">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Median.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/Median.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="13" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MedianofArray.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/MedianofArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="495">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickParttion.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HackerEarth/QuickParttion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="0" selection-start="936" selection-end="1184" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="915">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collections.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaPractice/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="251" max-vertical-offset="855">
               <folding />
             </state>
           </provider>
@@ -545,13 +166,14 @@
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
-        <entry key="$USER_HOME$/cx/mod/hosts" value="1399959380935" />
+        <entry key="$USER_HOME$/cx/mod/hosts" value="1406022255419" />
         <entry key="$USER_HOME$/cx/mod/hosts/events" value="1399970194088" />
-        <entry key="$USER_HOME$/cxps/dev/Clari5-EFM-4.7.X/workspace/AML" value="1397021510624" />
+        <entry key="$USER_HOME$/cxps/dev/Clari5-EFM-4.7.X/workspace/AML" value="1405506099433" />
         <entry key="$USER_HOME$/cxps/dev/Seer-Clari5.4.X-baseline/workspace" value="1401183977102" />
         <entry key="$USER_HOME$/cxps/dev/Seer-Clari5.4.X-baseline/workspace/AML" value="1394258193750" />
         <entry key="$USER_HOME$/cxps/dev/Seer-Clari5.4.X-baseline/workspace/mod/apex/shared" value="1400044877730" />
         <entry key="$USER_HOME$/cxps/dev/Seer-Clari5.4.X-baseline/workspace/mod/noesis" value="1396682657050" />
+        <entry key="$USER_HOME$/cxps/dev/Seer-Clari5.4.X-baseline/workspace/wapp/SAT" value="1401683485458" />
         <entry key="$USER_HOME$/cxps/dev/Seer-Clari5.4.X-baseline/workspace/wapp/clari5" value="1401779133830" />
         <entry key="$USER_HOME$/cxps/dev/Seer-Clari5.4.X-baseline/workspace/wapp/rda" value="1400491722707" />
       </map>
@@ -560,29 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="/usr/lib/jvm/jdk1.7.0_51/src.zip!/java/io/PrintWriter.java" />
-        <option value="$PROJECT_DIR$/src/javaPractice/ReadingFile.java" />
-        <option value="/usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/StringTokenizer.java" />
-        <option value="$PROJECT_DIR$/src/List/ReverseLinkLIst.java" />
-        <option value="$PROJECT_DIR$/src/javaPractice/SumInArray.java" />
-        <option value="$PROJECT_DIR$/src/javaPractice/SumMN.java" />
-        <option value="$PROJECT_DIR$/src/javaPractice/MaxOnes.java" />
-        <option value="$PROJECT_DIR$/src/javaPractice/IntegerPallindrome.java" />
-        <option value="$PROJECT_DIR$/src/javaPractice/IsBracketMatched.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/SumofMultiplesof3or5.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/UtopianTree.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/LoveLetterMystry.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/GemStones.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/FillingJars.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/ChockLateFeast.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/AngryChildren.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/ServiceLane.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/SubSet.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/HalloweenParty.java" />
-        <option value="$PROJECT_DIR$/src/javaPractice/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/javaPractice/QuickSort.java" />
-        <option value="/usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/HackerEarth/LonelyInteger.java" />
         <option value="$PROJECT_DIR$/src/HackerEarth/Median.java" />
         <option value="$PROJECT_DIR$/src/HackerEarth/DifferenceIsK.java" />
         <option value="$PROJECT_DIR$/src/HackerEarth/MarkToys.java" />
@@ -611,6 +210,29 @@
         <option value="$PROJECT_DIR$/src/Tree/DiffOddEvenLevel.java" />
         <option value="$PROJECT_DIR$/src/Tree/TreeFromPreandIN.java" />
         <option value="$PROJECT_DIR$/src/Tree/TreeFromLevelandIn.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/COnsecutiveBinaryString.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/ConsecutiveBinaryString.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/KclosestElement.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/ReArrangeArray.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/AlternatingXorZeroRec.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/SubArrayZeroSum.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/SubArrayGivenSum.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Rotation.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/MajorityElements.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/MediansofTwoArray.java" />
+        <option value="/usr/lib/jvm/jdk1.7.0_51/src.zip!/java/io/FileInputStream.java" />
+        <option value="/usr/lib/jvm/jdk1.7.0_51/src.zip!/java/io/ObjectInputStream.java" />
+        <option value="$PROJECT_DIR$/src/javaPractice/JavaAnnInnerClass.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/ShortPallin.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/ZeroOneMultiple.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/RemovingFriends.java" />
+        <option value="$PROJECT_DIR$/src/javaPractice/Serialization.java" />
+        <option value="/usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/concurrent/CountDownLatch.java" />
+        <option value="$PROJECT_DIR$/src/winni/in/AlphabetSoup.java" />
+        <option value="$PROJECT_DIR$/src/winni/in/input.txt" />
+        <option value="$PROJECT_DIR$/src/winni/in/Algorithm" />
+        <option value="$PROJECT_DIR$/src/winni/AlphabetSoup.java" />
       </list>
     </option>
   </component>
@@ -619,9 +241,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -651,7 +273,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -683,10 +305,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -701,10 +319,14 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="winni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -717,23 +339,17 @@
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="SearchEverywhereHistory" value="LinkedHashMa&#10;Math&#10;Iterab&#10;SYstem&#10;LinkHashMap" />
     <property name="FullScreen" value="false" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TreeFromLevelandIn">
-    <configuration default="false" name="PrintingNodesAtKdistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.AlphabetSoup (1)">
+    <configuration default="false" name="ZeroOneMultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="HackerEarth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Tree.PrintingNodesAtKdistance" />
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.ZeroOneMultiple" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -754,14 +370,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="DistBetTwoNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RemovingFriends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="HackerEarth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Tree.DistBetTwoNode" />
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.RemovingFriends" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -782,14 +398,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="DiffOddEvenLevel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="javaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Tree.DiffOddEvenLevel" />
+      <option name="MAIN_CLASS_NAME" value="javaPractice.Testing" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -810,14 +426,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="TreeFromPreandIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AlphabetSoup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="winni.in.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Tree.TreeFromPreandIN" />
+      <option name="MAIN_CLASS_NAME" value="winni.in.AlphabetSoup" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -828,26 +444,24 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Practice" />
       <envs />
-      <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Cover" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="TreeFromLevelandIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AlphabetSoup (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="winni.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Tree.TreeFromLevelandIn" />
+      <option name="MAIN_CLASS_NAME" value="winni.AlphabetSoup" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -858,13 +472,7 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Practice" />
       <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1109,19 +717,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Regex (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PrintingNodesAtKdistance" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DistBetTwoNode" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DiffOddEvenLevel" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TreeFromPreandIN" />
-      <item index="5" class="java.lang.String" itemvalue="Application.TreeFromLevelandIn" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ZeroOneMultiple" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RemovingFriends" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Testing" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AlphabetSoup" />
+      <item index="5" class="java.lang.String" itemvalue="Application.AlphabetSoup (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TreeFromLevelandIn" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TreeFromPreandIN" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DiffOddEvenLevel" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DistBetTwoNode" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrintingNodesAtKdistance" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AlphabetSoup (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AlphabetSoup" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Testing" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RemovingFriends" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ZeroOneMultiple" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1193,17 +801,28 @@
       <workItem from="1404316278125" duration="3527000" />
       <workItem from="1404399997360" duration="10544000" />
       <workItem from="1404485179301" duration="7239000" />
+      <workItem from="1404747859899" duration="10507000" />
+      <workItem from="1404831612676" duration="597000" />
+      <workItem from="1404886728725" duration="593000" />
+      <workItem from="1406311456267" duration="10328000" />
+      <workItem from="1406606613722" duration="13000" />
+      <workItem from="1406618667859" duration="76000" />
+      <workItem from="1406746691082" duration="4955000" />
+      <workItem from="1406867322617" duration="372000" />
+      <workItem from="1407261894295" duration="172000" />
+      <workItem from="1407262152956" duration="2046000" />
+      <workItem from="1408460609122" duration="5558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192845000" />
+    <option name="totallyTimeSpent" value="228062000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1213,17 +832,17 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771823" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771823" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32771823" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1232,7 +851,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1243,8 +862,8 @@
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32771823" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771823" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1252,10 +871,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771823" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1282,215 +901,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Tree/ZigZagTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1243" selection-end="1765" vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ReverseAlterNaleLevels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="0" selection-start="1991" selection-end="2890" vertical-scroll-proportion="0.0" vertical-offset="1455" max-vertical-offset="1575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HackerEarth/RunCustomerSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="22" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/SumTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="20" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="795">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/PrintingVerticalOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="35" selection-start="1196" selection-end="1720" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/PrintingNodesAtKdistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="34" selection-start="2139" selection-end="2649" vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="1665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/DistBetTwoNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="33" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/DiffOddEvenLevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="51" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0" vertical-offset="363" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/TreeFromPreandIN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="21" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="34" selection-start="4001" selection-end="4363" vertical-scroll-proportion="0.0" vertical-offset="2625" max-vertical-offset="2910">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaDesignPattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ZigZagTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1243" selection-end="1765" vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ReverseAlterNaleLevels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="0" selection-start="1991" selection-end="2890" vertical-scroll-proportion="0.0" vertical-offset="1455" max-vertical-offset="1575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HackerEarth/RunCustomerSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="22" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/SumTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="20" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="795">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/PrintingVerticalOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="56" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="167" column="31" selection-start="4117" selection-end="4117" vertical-scroll-proportion="0.0" vertical-offset="2505" max-vertical-offset="2910">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaDesignPattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ZigZagTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1243" selection-end="1765" vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ReverseAlterNaleLevels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="40" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HackerEarth/RunCustomerSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="22" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="51" selection-start="3743" selection-end="3743" vertical-scroll-proportion="0.0" vertical-offset="2265" max-vertical-offset="2910">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaDesignPattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ZigZagTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1243" selection-end="1765" vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ReverseAlterNaleLevels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="40" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HackerEarth/RunCustomerSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="51" selection-start="3743" selection-end="3743" vertical-scroll-proportion="0.0" vertical-offset="2265" max-vertical-offset="2910">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaDesignPattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ZigZagTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1243" selection-end="1765" vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ReverseAlterNaleLevels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="40" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="51" selection-start="3743" selection-end="3743" vertical-scroll-proportion="0.0" vertical-offset="2265" max-vertical-offset="2910">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaDesignPattern/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
@@ -1503,113 +913,264 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/ZigZagTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1243" selection-end="1765" vertical-scroll-proportion="0.0" vertical-offset="715" max-vertical-offset="1080">
-          <folding />
-        </state>
+        <state line="64" column="0" selection-start="1243" selection-end="1765" vertical-scroll-proportion="0.0" vertical-offset="715" max-vertical-offset="1080" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HackerEarth/RunCustomerSimulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="22" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="945">
-          <folding />
-        </state>
+        <state line="32" column="22" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="945" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/SumTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="20" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="795">
-          <folding />
-        </state>
+        <state line="41" column="20" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="795" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/ReverseAlterNaleLevels.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="0" selection-start="1991" selection-end="2890" vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="1575">
-          <folding />
-        </state>
+        <state line="97" column="0" selection-start="1991" selection-end="2890" vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="1575" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="34" selection-start="4001" selection-end="4363" vertical-scroll-proportion="0.0" vertical-offset="2377" max-vertical-offset="2880">
-          <folding />
-        </state>
+        <state line="175" column="34" selection-start="4001" selection-end="4363" vertical-scroll-proportion="0.0" vertical-offset="2377" max-vertical-offset="2880" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2624" column="20" selection-start="117828" selection-end="118002" vertical-scroll-proportion="0.0" vertical-offset="38796" max-vertical-offset="54840">
-          <folding />
-        </state>
+        <state line="2624" column="20" selection-start="117828" selection-end="118002" vertical-scroll-proportion="0.0" vertical-offset="38796" max-vertical-offset="54840" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="641" column="26" selection-start="26279" selection-end="26279" vertical-scroll-proportion="-15.358974" vertical-offset="14990" max-vertical-offset="17640">
-          <folding />
-        </state>
+        <state line="641" column="26" selection-start="26279" selection-end="26279" vertical-scroll-proportion="-15.358974" vertical-offset="14990" max-vertical-offset="17640" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/TreeFromLevelandIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="18" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.84615386" vertical-offset="330" max-vertical-offset="1260">
-          <folding />
-        </state>
+        <state line="44" column="18" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.84615386" vertical-offset="330" max-vertical-offset="1260" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/TreeFromPreandIN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="5" selection-start="668" selection-end="889" vertical-scroll-proportion="1.2307693" vertical-offset="0" max-vertical-offset="615">
-          <folding />
-        </state>
+        <state line="32" column="5" selection-start="668" selection-end="889" vertical-scroll-proportion="1.2307693" vertical-offset="0" max-vertical-offset="615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/DiffOddEvenLevel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="31" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.27184466" vertical-offset="518" max-vertical-offset="930">
-          <folding />
-        </state>
+        <state line="43" column="31" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.27184466" vertical-offset="518" max-vertical-offset="930" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/DistBetTwoNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="33" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.6359223" vertical-offset="563" max-vertical-offset="975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="362" column="14" selection-start="16898" selection-end="16898" vertical-scroll-proportion="9.665049" vertical-offset="1103" max-vertical-offset="6915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="432" column="14" selection-start="16014" selection-end="16027" vertical-scroll-proportion="-3.9271846" vertical-offset="7753" max-vertical-offset="17565">
-          <folding />
-        </state>
+        <state line="55" column="33" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.6359223" vertical-offset="563" max-vertical-offset="975" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="319" column="47" selection-start="12490" selection-end="12490" vertical-scroll-proportion="-0.023961661" vertical-offset="4455" max-vertical-offset="7125">
-          <folding />
-        </state>
+        <state line="319" column="47" selection-start="12490" selection-end="12490" vertical-scroll-proportion="-0.023961661" vertical-offset="4455" max-vertical-offset="7125" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/PrintingNodesAtKdistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="34" selection-start="2544" selection-end="2544" vertical-scroll-proportion="0.54472846" vertical-offset="1039" max-vertical-offset="1665">
-          <folding />
-        </state>
+        <state line="92" column="34" selection-start="2544" selection-end="2544" vertical-scroll-proportion="0.54472846" vertical-offset="1039" max-vertical-offset="1665" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/PrintingVerticalOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="35" selection-start="1196" selection-end="1720" vertical-scroll-proportion="0.5926518" vertical-offset="424" max-vertical-offset="1050">
+        <state line="46" column="34" selection-start="1398" selection-end="1398" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/ConsecutiveBinaryString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="41" selection-start="472" selection-end="472" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/KclosestElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="5" selection-start="686" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/ReArrangeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="5" selection-start="361" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/SubArrayZeroSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="5" selection-start="120" selection-end="948" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Rotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="8" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/SubArrayGivenSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="5" selection-start="706" selection-end="819" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/MajorityElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="47" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="5" selection-start="90" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/MediansofTwoArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="38" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="315" column="29" selection-start="14335" selection-end="14335" vertical-scroll-proportion="4.9238577" vertical-offset="1575" max-vertical-offset="52740" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.4155629" vertical-offset="855" max-vertical-offset="6690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaPractice/Cloning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaPractice/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaPractice/MaxOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="13" selection-start="3164" selection-end="3164" vertical-scroll-proportion="-0.7102649" vertical-offset="1374" max-vertical-offset="4425" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="362" column="14" selection-start="16898" selection-end="16898" vertical-scroll-proportion="0.48178807" vertical-offset="4794" max-vertical-offset="6915" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1076" column="42" selection-start="37173" selection-end="37181" vertical-scroll-proportion="0.33275563" vertical-offset="15543" max-vertical-offset="17565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaPractice/JavaAnnInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="23" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/UtopianTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="5" selection-start="339" selection-end="855" vertical-scroll-proportion="0.0" vertical-offset="86" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/ShortPallin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="18" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaPractice/IntegerPallindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaPractice/IsBracketMatched.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/Median.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/MedianofArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/QuickParttion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="936" selection-end="1184" vertical-scroll-proportion="0.0" vertical-offset="311" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/ZeroOneMultiple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaPractice/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="251" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerEarth/RemovingFriends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="18" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="168" column="17" selection-start="7581" selection-end="7581" vertical-scroll-proportion="3.589109" vertical-offset="0" max-vertical-offset="2295" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="13" selection-start="4952" selection-end="4952" vertical-scroll-proportion="-4.051282" vertical-offset="3470" max-vertical-offset="4380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/jre/lib/deploy.jar!/com/sun/deploy/util/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="162" selection-end="162" vertical-scroll-proportion="0.12376238" vertical-offset="0" max-vertical-offset="606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaPractice/Serialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="16" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="720">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/winni/AlphabetSoup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="1" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.7307692" vertical-offset="1110" max-vertical-offset="1500">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
