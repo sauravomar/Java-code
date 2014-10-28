@@ -19,14 +19,14 @@ public class ParkingServer {
         totalSlots = slots;
         emptySlots = 0;
         occupiedSlots = new HashSet<Integer>(totalSlots);
-        occpCarInfo =  new HashMap<>(totalSlots);
+        occpCarInfo =  new HashMap<Integer,Car>(totalSlots);
     }
 
     ParkingServer(){
         totalSlots = 6;
         emptySlots = 0;
         occupiedSlots = new HashSet<Integer>(totalSlots);
-        occpCarInfo =  new HashMap<>(totalSlots);
+        occpCarInfo =  new HashMap<Integer,Car>(totalSlots);
     }
 
     public String  leave(int slot) throws ParkingException{
