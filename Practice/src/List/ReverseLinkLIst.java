@@ -25,7 +25,7 @@ public class ReverseLinkLIst{
         cur = next;
         next = next.next;
     }
-    return cur;
+    return prev;
    }
 
 }

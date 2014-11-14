@@ -24,6 +24,7 @@ public class checkSubs {
 
         for(int i=0;i<subs.length();i++){
             if(map.containsKey(subs.charAt(i))){
+                map.remove(subs.charAt(i));
                 count++;
             }
         }
