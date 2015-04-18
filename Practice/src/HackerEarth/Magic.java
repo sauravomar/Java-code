@@ -31,5 +31,7 @@ public class Magic {
             System.out.println(calculate(scanner.nextInt()));
         }
         scanner.close();
+        String s1 = null;
+
     }
 }
